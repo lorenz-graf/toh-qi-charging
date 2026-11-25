@@ -1,0 +1,8 @@
+# Python
+__pycache__/
+# private working notes (decisions log, session handoff)
+STATUS.md
+# photo/video originals (may contain personal data); redacted, approved copies go one level up into media/
+media/raw/
+# build output
+build/
